@@ -1,0 +1,15 @@
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/bin/Debug/net6.0/ATM
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/bin/Debug/net6.0/ATM.deps.json
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/bin/Debug/net6.0/ATM.runtimeconfig.json
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/bin/Debug/net6.0/ATM.dll
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/bin/Debug/net6.0/ref/ATM.dll
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/bin/Debug/net6.0/ATM.pdb
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.csproj.AssemblyReference.cache
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.AssemblyInfoInputs.cache
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.AssemblyInfo.cs
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.csproj.CoreCompileInputs.cache
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.dll
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ref/ATM.dll
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.pdb
+/home/milobg/Documents/WebDevelopment/CSharp/ATM/obj/Debug/net6.0/ATM.genruntimeconfig.cache
